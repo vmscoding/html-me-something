@@ -1,0 +1,54 @@
+html{
+    background-color: #63492a;
+}
+
+body { 
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 1024px;
+    font-family: Parchment, cursive;
+    font-size: 150%;
+    background-color: #ffe168;
+}
+h2{
+    background-color: #ffe168;
+    max-width: 200px;
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid #6b4701;
+}
+
+img {
+    border: 3px solid #6b4701;
+}
+#one {
+    font-size: 16px;
+}
+#two {
+    font-size: 14px;
+}
+#three {
+    font-size: 12px;
+}
+#four {
+    font-size: 10px;
+}
+#five {
+    font-size: 8px;
+}
+#six {
+    font-size: 6px;
+}
+#seven {
+    font-size: 4px;
+}
+.intro {
+    font-size: 150%;
+}
+
+footer {
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+}
